@@ -1,0 +1,16 @@
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\bin\Debug\SVassey-CPT-206-A80H-Lab-3.exe.config
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\bin\Debug\SVassey-CPT-206-A80H-Lab-3.exe
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\bin\Debug\SVassey-CPT-206-A80H-Lab-3.pdb
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\bin\Debug\StateLibrary.dll
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\bin\Debug\StateLibrary.pdb
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\bin\Debug\StateLibrary.dll.config
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey-CPT-206-A80H-Lab-3.csproj.AssemblyReference.cache
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey_CPT_206_A80H_Lab_3.DataGridForm.resources
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey_CPT_206_A80H_Lab_3.MainForm.resources
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey_CPT_206_A80H_Lab_3.Properties.Resources.resources
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey_CPT_206_A80H_Lab_3.StateInformationForm.resources
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey-CPT-206-A80H-Lab-3.csproj.GenerateResource.cache
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey-CPT-206-A80H-Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey-.89ABCCC1.Up2Date
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey-CPT-206-A80H-Lab-3.exe
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\obj\Debug\SVassey-CPT-206-A80H-Lab-3.pdb
