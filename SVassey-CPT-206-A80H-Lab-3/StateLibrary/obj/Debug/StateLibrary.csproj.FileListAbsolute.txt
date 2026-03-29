@@ -1,0 +1,7 @@
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\bin\Debug\StateLibrary.dll.config
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\bin\Debug\StateLibrary.dll
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\bin\Debug\StateLibrary.pdb
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\obj\Debug\StateLibrary.csproj.AssemblyReference.cache
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\obj\Debug\StateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\obj\Debug\StateLibrary.dll
+C:\Users\Vasse\source\repos\SVassey-CPT-206-A80H-Lab-3\StateLibrary\obj\Debug\StateLibrary.pdb
